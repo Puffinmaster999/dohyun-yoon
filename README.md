@@ -20,10 +20,10 @@ learning to write good README's are a skill and i think i need to get better at 
 
 things that ive learned:
 - html
-tailwindcss
-ui/ux design
+- tailwindcss
+- ui/ux design
 
 things to improve:
 - ui/ux
-.md file format
-presentablity
+- .md file format
+- presentablity
