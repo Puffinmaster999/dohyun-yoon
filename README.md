@@ -1,3 +1,5 @@
+this is a hackclub project!
+
 for me this was the first time that i used html! although, i did know a bit about html like how you *"needed"* css, i didnt realize that tailwindcss was a thing and that i could use it to do many of the heavy lifting for me!
 
 ---
