@@ -1,11 +1,13 @@
-this is a hackclub project!
+# My Future Personal Website
+this is a [**Hack Club**](hackclub.com) project!
 
+this was a website for future me when i need a personal websited for myself! 
+this site serves as a clean space to showcase my work, personal projects, and future robotics journey!
+---
 for me this was the first time that i used html! although, i did know a bit about html like how you *"needed"* css, i didnt realize that tailwindcss was a thing and that i could use it to do many of the heavy lifting for me!
 
----
-
 for me i have used a lot of ai for creating projects so this was a great time for me to not use ai and learn the ins and outs of a project like this!
-> i used the tailwind docmentation so many times that whenever i type "t" it autocorrects to tailwindcss.com/docs/styling-with-utility-classes... 😭
+i used the tailwind docmentation so many times that whenever i type "t" it autocorrects to tailwindcss.com/docs/styling-with-utility-classes... 😭
 
 didnt really want my website to look like a game like how i saw many people did it, rather i wanted to resemble what you can make in personal website builders! 
 although my progress wasnt really documentated that well, i did work throughout a few days and didn't really commit to github until i thought it was ready to view! however, in three days i think i was able to get a lot of work done!
@@ -16,12 +18,12 @@ learning to write good README's are a skill and i think i need to get better at 
 
 ---
 
-things that ive learned:
+### things that ive learned:
 - html
 - tailwindcss
 - ui/ux design
 
-things to improve:
+### things to improve:
 - ui/ux
 - .md file format
 - presentablity
